@@ -1,1 +1,0 @@
-# learning_sdl2_with_c
